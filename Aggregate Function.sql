@@ -1,0 +1,30 @@
+SELECT DAYNAME('2024-04-01');
+
+
+SELECT DAYOFWEEK('2024-04-01');
+
+ 
+SELECT DAYOFYEAR('2024-04-01');
+
+
+SELECT IF(1<2,'yes','no');
+
+
+SELECT TIME_TO_SEC('00:00:00');
+
+
+SELECT UPPER('Messi');
+
+
+ SELECT INSTR('Messi is a Goat', 'Goat');
+
+
+ SELECT LOWER('VIRAT KOHLI');
+
+
+
+ SELECT MOD(440,22);
+
+
+
+SELECT POW(2,2);
